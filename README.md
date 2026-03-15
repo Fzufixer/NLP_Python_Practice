@@ -1,2 +1,2 @@
-# NLP_Python-_Practice
+# NLP_Python_Practice
 基于 NLTK 的入门级自然语言处理练习项目，涵盖词频分析、词汇多样性计算等等，慢慢更新，将课堂所学 Python 语言处理知识转化为可运行的分析工具。
